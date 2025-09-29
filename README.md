@@ -1,8 +1,6 @@
 # SCT_ML_4
 # **🤚 Hand Gesture Recognition (CNN + LSTM + Streamlit App)**
 
-Task 4 Internship @ SkillCraft Technology
-
 An end-to-end hand gesture recognition system that predicts gestures from images, PDFs, videos, and live webcam using deep learning.
 
 ## 🔹 Features
