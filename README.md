@@ -25,4 +25,4 @@ Web App: Streamlit 💻
 
 Data Handling: NumPy 📊
 
-💡 **Highlights**: Multi-modal input, real-time gesture recognition, and end-to-end workflow for education 🎓, accessibility ♿, and HCI 🖐️
+## 💡 **Highlights**: Multi-modal input, real-time gesture recognition, and end-to-end workflow for education 🎓, accessibility ♿, and HCI 🖐️
